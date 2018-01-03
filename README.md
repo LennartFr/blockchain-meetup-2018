@@ -1,4 +1,4 @@
-# Blockchain for Developers, from zero to running app in the cloud.  
+# Blockchain for Developers: from zero to running app in the cloud.  
 
 1. Potential Speakers: Romi Datta, Anton Polishki, Raheel Zubairu, Lennart
 
