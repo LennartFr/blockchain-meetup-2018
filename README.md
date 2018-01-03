@@ -5,7 +5,7 @@
 
 # Details
 
-• What we'll do
+What we'll do
 
 Blockchain is one of the most written-about technologies in the world today, promising to modernize and revolutionize business processing from Supply Chain to Healthcare, Food Traceability, Voting, Payment and Digital Currency, Real Estate, Aircraft Maintenance, International Payments, Insurance (Smart Contracts), Regulatory Compliance and Audit, etc.
 
