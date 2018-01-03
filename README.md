@@ -1,4 +1,4 @@
-# Blockchain for Developers: from zero to running app in the cloud.  
+# Blockchain for Developers: from zero to running app in the cloud, the latest programming resources.  
 
 1. Potential Speakers: Romi Datta, Anton Polishki, Raheel Zubairu, Lennart
 
@@ -22,9 +22,10 @@ Raheel Zubairy is a software Engineer focused on developing journeys for Emergin
 
 6:00-6:30pm: Light dinner and registration
 
-6-30-8:30pm: Talk: Lennart: The Blockchain Building Blocks, how do you write your first app, how do you deploy it, how do you move it to 
-                            the cloud?
-                   Raheel:  Experience report: writing Blockchain apps with Hyperledger.            
+6-30-8:30pm: Talks: Lennart: The Blockchain Building Blocks, how do you write your first app, how do you deploy it, how do you move it to 
+                            the cloud? Overview of the latest programming resources.
+                    
+                    Raheel:  Experience report: writing Blockchain apps with Hyperledger.            
 
 8:30-9;00pm : Wrap up & Networking
 
