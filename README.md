@@ -24,9 +24,9 @@ Raheel Zubairy is a software Engineer focused on developing journeys for Emergin
 6:00-6:30pm: Light dinner and registration
 
 6-30-8:30pm: Talks: <p>
-             Lennart: The Blockchain Building Blocks, how do you write your first app, how do you deploy it, how do you move it to 
+             Lennart: The Blockchain Building Blocks:  your first app, how do you deploy it, how do you move it to 
                              the cloud. Overview of the latest programming resources.<p>
-             Raheel: Writing Blockchain apps. An experience report. How to plan your app, how to deploy it.         
+             Raheel: Writing Blockchain apps. An experience report. How to plan your app, how to write it, how to deploy it.         
                                            
 8:30-9;00pm : Wrap up & Networking
 
