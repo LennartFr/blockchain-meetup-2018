@@ -1,14 +1,14 @@
 # blockchain-meetup-2018
 
-1. Speakers: Romi Datta, Anton Polishki, Raheel Zubairu, Lennart
+1. Potential Speakers: Romi Datta, Anton Polishki, Raheel Zubairu, Lennart
 
 # Details
 
 • What we'll do
-Chatbots are an interesting programming paradigm that can be hard to understand at first. Never fear, we can build one together! This talk will be a follow along, using Watson Conversation to build a chatbot. Whether you have prior experience building a chatbot or you are just a casual chatbot enthusiast you should learn something new in this talk.
+Blockchain is one of the most written-about technologies in the world today, promising the modernize and revolutionize business processing such as Supply Chain, Healthcare, Food Traceability, Voting, Payment and Digital Currency, Real Estate, Aircraft Maintenance, International Payments, Insurance (Smart Contracts), Regulatory Compliance and Audit, etc.  
 
 ##Speaker
-Amara Keller is a Developer Advocate with IBM on the San Francisco City Team. Before her step into developer relations, she was an enterprise web application developer focusing on line of business applications and assisting developers across various teams on implementing proprietary and open source solutions. She’s passionate about UX, technical communities (both online and offline) and excited to see where advances in AI take us. In her spare time she experiments in the kitchen and plays console video games.
+Lennart Frantzell is a Developer Advocate with IBM on the San Francisco City Team focusing on Blockhain and Fintech. With a background in program development and object-oriented programming, he talks at industry events, spents his weekends at hackathons and works with startups and developers to help them adopt Blockchain and Fintech. His goal is to replace mainkind with AI. 
 
 #Agenda:
 
