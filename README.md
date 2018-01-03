@@ -18,7 +18,7 @@ Lennart Frantzell is a Developer Advocate with IBM on the San Francisco City Tea
 Raheel Zubairy is a software Engineer focused on developing journeys for Emerging Technologies team, part of IBM’s Digital Business Group. He has worked on journeys showcasing Blockchain technologies and Fintech services. In addition, his interests include IoT and Data Science. Raheel’s previous experience includes over five years in the energy industry. He completed his bachelors and masters degrees from Texas A&M University. Raheel is an avid sports fan. 
 
 
-#Agenda:
+# Agenda:
 
 6:00-6:30pm: Light dinner and registration
 
