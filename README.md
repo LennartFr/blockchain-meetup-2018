@@ -36,5 +36,7 @@ No experience is necessary, except an interest in Blockchain.
 # What to bring
 No experience is necessary. 
 
-# Important to know
+# Resources
+
+[IBM Code: Blockchain Distributed database maintaining a continuously growing list of secured records or blocks](https://developer.ibm.com/code/technologies/blockchain/)
 
