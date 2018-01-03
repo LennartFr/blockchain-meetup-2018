@@ -1,4 +1,3 @@
-<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
 
 # Blockchain for developers: from zero to running app in the cloud, the latest programming resources.  
 
