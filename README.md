@@ -1,8 +1,6 @@
 
 # Blockchain for developers: from zero to running app in the cloud, the latest programming resources.  
 
-1. Potential Speakers: Romi Datta, Anton Polishki, Raheel Zubairu, Lennart
-
 # Details
 
 What we'll do
