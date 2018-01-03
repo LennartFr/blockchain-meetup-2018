@@ -11,7 +11,7 @@ Blockchain is one of the most written-about technologies in the world today, pro
 So come and learn how to get started writing Blockchain apps, how to run them on your laptop and bring them to the cloud.
 
 ## Speakers
-Lennart Frantzell is a Developer Advocate with IBM on the San Francisco City Team focusing on Blockhain and Fintech. With a background in program development and object-oriented programming, he talks at industry events, spents his weekends at hackathons and works with startups and developers to help them adopt Blockchain and Fintech. His goal is to replace mainkind with AI. 
+Lennart Frantzell is a Developer Advocate with IBM on the San Francisco City Team focusing on Blockhain and Fintech. With a background in program development he works with startups and developers to help them adopt Blockchain and Fintech, talks at industry events and spends his weekends at hackathons. 
 
 ## Raheel Zubairy
 
@@ -22,14 +22,16 @@ Raheel Zubairy is a software Engineer focused on developing journeys for Emergin
 
 6:00-6:30pm: Light dinner and registration
 
-6-30-8:30pm: Build your first chatbot workshop
+6-30-8:30pm: Talk: Lennart: The Blockchain Building Blocks, how do you write your first app, how do you deploy it, how do you move it to 
+                            the cloud?
+                   Raheel:  Experience report: writing Blockchain apps with Hyperledger.            
 
 8:30-9;00pm : Wrap up & Networking
 
 # Requirements
-No experience is necessary, however an idea for your chatbot might come in handy. Please bring a laptop and power cable, as this is a hands-on workshop.
+No experience is necessary, except an interest in Blockchain. 
 
 # What to bring
-No experience is necessary, however an idea for your chatbot might come in handy. Please bring a laptop and power cable, as this is a hands-on workshop.
+No experience is necessary. 
 
 # mportant to know
