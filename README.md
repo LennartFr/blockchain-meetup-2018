@@ -11,6 +11,7 @@ Blockchain is one of the most written-about technologies in the world today, pro
 So come and learn how to get started writing Blockchain apps, how to run them on your laptop and bring them to the cloud.
 
 ## Speakers
+
 Lennart Frantzell is a Developer Advocate with IBM on the San Francisco City Team focusing on Blockhain and Fintech. With a background in program development he works with startups and developers to help them adopt Blockchain and Fintech, talks at industry events and spends his weekends at hackathons. 
 
 ## Raheel Zubairy
@@ -22,12 +23,11 @@ Raheel Zubairy is a software Engineer focused on developing journeys for Emergin
 
 6:00-6:30pm: Light dinner and registration
 
-6-30-8:30pm: Talks: Lennart: The Blockchain Building Blocks, how do you write your first app, how do you deploy it, how do you move it to 
+6-30-8:30pm: Talks: <p>
+             Lennart: The Blockchain Building Blocks, how do you write your first app, how do you deploy it, how do you move it to 
                              the cloud. Overview of the latest programming resources.<p>
-                    Raheel: Writing Blockchain apps. An experience report. How to plan your app, how to deploy it.         
-                                                
-                                 
-
+             Raheel: Writing Blockchain apps. An experience report. How to plan your app, how to deploy it.         
+                                           
 8:30-9;00pm : Wrap up & Networking
 
 # Requirements
