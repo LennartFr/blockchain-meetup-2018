@@ -47,3 +47,5 @@ Yourself.
 
 [Blockchain on IBM Cloud](https://console.bluemix.net/catalog/services/blockchain/)
 
+[Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
+
