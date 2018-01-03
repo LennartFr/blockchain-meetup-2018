@@ -20,7 +20,9 @@ Amara Keller is a Developer Advocate with IBM on the San Francisco City Team. Be
 #Agenda:
 
 6:00-6:30pm: Light dinner and registration
+
 6-30-8:30pm: Build your first chatbot workshop
+
 8:30-9;00pm : Wrap up & Networking
 
 # Requirements
