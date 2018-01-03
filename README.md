@@ -37,7 +37,7 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 No experience is necessary, except an interest in Blockchain. 
 
 # What to bring
-No experience is necessary. 
+Yourself. 
 
 # Resources
 
