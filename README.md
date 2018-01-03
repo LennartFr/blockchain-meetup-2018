@@ -1,5 +1,5 @@
 
-# Blockchain for developers: from zero to running app in the cloud, the latest programming resources.  
+# Blockchain for developers: from zero to running app in the cloud. The latest programming resources.  
 
 # Details
 
