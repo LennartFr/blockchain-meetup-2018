@@ -37,7 +37,7 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 # Requirements
 No experience is necessary, except an interest in Blockchain. 
 
-## 
+<img src="https://farm5.staticflickr.com/4589/38703421954_a76611811a_b.jpg" width="824" height="207" alt="blueband"> 
 
 # Let's get started, introduction and documentation
 
