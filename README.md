@@ -4,12 +4,6 @@
 
 ## 
 
-
-
-
-
-
-
 # Details
 
 What we'll do
@@ -86,6 +80,39 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Some background:
+
+## Blockchain Usecases
+
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+
+[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+
+1. [How Bitcoin Works:](https://en.bitcoin.it/wiki/How_bitcoin_works)
+1. Blockchain and BitCoin
+  * Assets over cryptocurrency
+  * Identity over anonymity
+  * Selective endorsement (consensus) over proof of work
+
+## Hyperledger, Blockchain and the IBM Blockchain Platform
+
+[Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
+
+[Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
+
+[Hyperledger Fabric](https://hyperledger.org/projects/fabric)
+
+[Hyperledger on GitHub](https://github.com/hyperledger)
+
+[Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
+
+[IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
+
+# Nodered and Hyperledger Composer
+
+[Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
 
 
 
