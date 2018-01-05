@@ -1,6 +1,15 @@
 
 # Blockchain for developers: from zero to running app in the cloud. The latest programming resources.  
 
+
+## 
+
+
+
+
+
+
+
 # Details
 
 What we'll do
@@ -36,6 +45,52 @@ No experience is necessary, except an interest in Blockchain.
 
 # What to bring
 Yourself. 
+
+
+## 
+
+# Let's get started, introduction and documentation
+
+## How did it all start?
+
+October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
+
+<img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
+
+**In this workshop we will use the Hyperledger implementation of Blockchain : http://hyperledger.org/**
+
+Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
+is hosted by The Linux Foundation®. 
+
+Deployed in Docker images.
+
+1. A blockchain emulates a “trusted” computing service through a distributed protocol, 
+   run by nodes connected over the Internet. 
+
+2. The service represents or creates an asset, in which all nodes have some stake.
+
+3. The nodes share the common goal of running the service but do not necessarily 
+   trust each other for more. 
+
+....
+
+5. On the other hand, blockchains in the “permissioned” model control who participates in validation and
+   in the protocol; these nodes typically have established identities and form a consortium
+
+Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant con-
+sensus using the PBFT protocol.
+
+Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
+
+
+<img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
+
+
+
+
+
+
+
 
 # Resources
 
