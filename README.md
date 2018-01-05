@@ -72,24 +72,21 @@ sensus using the PBFT protocol.
 
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
-<img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
-
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Some background:
-
-## Blockchain Usecases
-
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-
-[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
-
 1. [How Bitcoin Works:](https://en.bitcoin.it/wiki/How_bitcoin_works)
 1. Blockchain and BitCoin
   * Assets over cryptocurrency
   * Identity over anonymity
   * Selective endorsement (consensus) over proof of work
+
+<img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
+
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+
+## Blockchain Usecases
+
+[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## Hyperledger, Blockchain and the IBM Blockchain Platform
 
