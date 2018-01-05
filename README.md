@@ -47,7 +47,7 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 
 <img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
 
-** Blockchain and Hyperledger : http://hyperledger.org/**
+## Blockchain and Hyperledger : http://hyperledger.org/**
 
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
@@ -71,7 +71,6 @@ Consensus protocol is pluggable, currently an implementation of Byzantine fault-
 sensus using the PBFT protocol.
 
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
-
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
