@@ -37,10 +37,6 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 # Requirements
 No experience is necessary, except an interest in Blockchain. 
 
-# What to bring
-Yourself. 
-
-
 ## 
 
 # Let's get started, introduction and documentation
@@ -51,7 +47,7 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 
 <img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
 
-**In this workshop we will use the Hyperledger implementation of Blockchain : http://hyperledger.org/**
+** Blockchain and Hyperledger : http://hyperledger.org/**
 
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
