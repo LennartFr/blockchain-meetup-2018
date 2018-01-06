@@ -115,7 +115,7 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
 
-# Steo 2 Hyperledger Composer Playground
+# Step 2 Hyperledger Composer Playground
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
 
