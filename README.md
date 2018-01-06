@@ -113,6 +113,10 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
 ## Step 4 
+Oliver  <a href="https://ibm-blockchain.github.io/">Set up the environment</a>
+
+<a href="https://ibm-blockchain.github.io/">Hyperledger Composer on IBM Cloud</a>
+
 
 ## Step 5
 
