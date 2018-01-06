@@ -117,8 +117,8 @@ Oliver  <a href="https://ibm-blockchain.github.io/">Set up the environment</a>
 
 <a href="https://ibm-blockchain.github.io/">Hyperledger Composer on IBM Cloud</a>
 
-
 ## Step 5
+<a href="https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html">Zero to Blockchain</a>
 
 ## Steo 6
 
