@@ -83,13 +83,13 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 
-## Step 1 Blockchain Usecases
+# Step 1 Blockchain Usecases
 
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Step 2 Hyperledger, Blockchain and the IBM Blockchain Platform
+# Step 2 Hyperledger, Blockchain and the IBM Blockchain Platform
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
@@ -107,27 +107,33 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 [Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
 
-## Step 3 A simple Hyperledger app
+# Step 3 A simple Hyperledger app
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
-## Step 4 
+
+# Steo 6
+<a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
+
+
+# Step 7
+<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
+
+# Blockchain in the Cloud
+
+
+# Resources
+
+# Blockchain in the Cloud 
 Oliver  <a href="https://ibm-blockchain.github.io/">Set up the environment</a>
 
 <a href="https://ibm-blockchain.github.io/">Hyperledger Composer on IBM Cloud</a>
 
-## Step 5
+# Zero to Bockchain
 <a href="https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html">Zero to Blockchain</a>
 
-## Steo 6
-<a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
-
-## Step 7
-<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
-
-# Resources
 
 [IBM Code: Blockchain Distributed database maintaining a continuously growing list of secured records or blocks](https://developer.ibm.com/code/technologies/blockchain/)
 
