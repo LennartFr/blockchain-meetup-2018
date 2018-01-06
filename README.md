@@ -1,8 +1,6 @@
+<img src="https://farm5.staticflickr.com/4589/38703421954_a76611811a_b.jpg" width="824" height="207" alt="blueband"> 
 
 # Blockchain for developers: from zero to running app in the cloud. The latest programming resources.  
-
-
-## 
 
 # Details
 
@@ -21,7 +19,6 @@ Lennart is a Developer Advocate with IBM on the San Francisco City Team focusing
 ## Raheel Zubairy
 
 Raheel is a software Engineer focused on developing journeys for Emerging Technologies team, part of IBM’s Digital Business Group. He has worked on journeys showcasing Blockchain technologies and Fintech services. In addition, his interests include IoT and Data Science. Raheel’s previous experience includes over five years in the energy industry. He completed his bachelors and masters degrees from Texas A&M University. Raheel is an avid sports fan. 
-
 
 # Agenda:
 
