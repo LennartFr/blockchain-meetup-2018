@@ -81,13 +81,13 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 
-## Blockchain Usecases
+## Step 1 Blockchain Usecases
 
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Hyperledger, Blockchain and the IBM Blockchain Platform
+## Step 2 Hyperledger, Blockchain and the IBM Blockchain Platform
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
@@ -105,10 +105,13 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 [Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
 
+## Step 3 A simple Hyperledger app
 
+## Step 4 
 
+## Step 5
 
-
+## Steo 6
 
 # Resources
 
