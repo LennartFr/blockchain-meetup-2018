@@ -36,9 +36,7 @@ No experience is necessary, except an interest in Blockchain.
 
 <img src="https://farm5.staticflickr.com/4589/38703421954_a76611811a_b.jpg" width="824" height="207" alt="blueband"> 
 
-# Let's get started, introduction and documentation
-
-## How did it all start?
+# How did it all start?
 
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
 
