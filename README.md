@@ -91,6 +91,8 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 ## Hyperledger, Blockchain and the IBM Blockchain Platform
 
+<img src="https://farm5.staticflickr.com/4736/39515925842_19879ea37d_b.jpg" width="892" height="503" alt="IBM Blockchain CLoud">
+
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
 [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
