@@ -103,7 +103,7 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
-# Nodered and Hyperledger Composer
+## Nodered and Hyperledger Composer
 
 [Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
 
@@ -121,6 +121,11 @@ Oliver  <a href="https://ibm-blockchain.github.io/">Set up the environment</a>
 <a href="https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html">Zero to Blockchain</a>
 
 ## Steo 6
+<a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
+
+
+## Step 7
+<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
 # Resources
 
