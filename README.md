@@ -44,7 +44,18 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
 
-## Hyperledger : http://hyperledger.org/
+## The Blockchain Distributed Ledger
+
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+
+# Blockchain Usecases
+
+[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
+# The Tool. Hyperledger : http://hyperledger.org/
 
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
@@ -79,17 +90,8 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://www.altoros.com/blog/wp-content/uploads/2016/11/Fabric-1.0.png">
 
-# The Blockchain Distributed Ledger
 
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-
-# Step 1 Blockchain Usecases
-
-[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Step 2 Hyperledger, Blockchain and the IBM Blockchain Platform
+## Hyperledger, Blockchain and the IBM Blockchain Platform
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 
@@ -107,20 +109,20 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 [Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
 
-# Step 3 A simple Hyperledger app
+# Step 1 A simple Hyperledger app
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
 
-# Steo 6
+# Steo 2 Hyperledger Composer Playground
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
 
-# Step 7
+# Step 3 Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
-# Blockchain in the Cloud
+# Step 4 Blockchain in the Cloud
 
 
 # Resources
