@@ -44,13 +44,13 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
 
-## The Blockchain Distributed Ledger
-
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-
 # Blockchain Usecases
 
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+
+## The Blockchain Distributed Ledger
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
