@@ -77,6 +77,8 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
+<img src="https://www.altoros.com/blog/wp-content/uploads/2016/11/Fabric-1.0.png">
+
 # The Blockchain Distributed Ledger
 
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
