@@ -79,12 +79,6 @@ sensus using the PBFT protocol.
 
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
-1. [How Bitcoin Works:](https://en.bitcoin.it/wiki/How_bitcoin_works)
-1. Blockchain and BitCoin
-  * Assets over cryptocurrency
-  * Identity over anonymity
-  * Selective endorsement (consensus) over proof of work
-
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
 <img src="https://www.altoros.com/blog/wp-content/uploads/2016/11/Fabric-1.0.png">
