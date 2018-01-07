@@ -61,21 +61,12 @@ is hosted by The Linux Foundation®.
 
 Deployed in Docker images.
 
-1. A blockchain emulates a “trusted” computing service through a distributed protocol, 
-   run by nodes connected over the Internet. 
-
-2. The service represents or creates an asset, in which all nodes have some stake.
-
-3. The nodes share the common goal of running the service but do not necessarily 
-   trust each other for more. 
-
-....
-
-5. On the other hand, blockchains in the “permissioned” model control who participates in validation and
-   in the protocol; these nodes typically have established identities and form a consortium
-
+<i>A blockchain is a decentralized virtual ledger for recording transactions without central authority through a distributed cryptographic protocol. It is made up of three technologies – cryptographic algorithms, a distributed protocol, and replicated data – which combined provide a trustworthy service to a group of nodes that do not fully trust each other. With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
+</i>
 Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant con-
 sensus using the PBFT protocol.
+
+Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
 
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
