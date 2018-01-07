@@ -68,7 +68,7 @@ Deployed in Docker images.
 1. and replicated data 
 <br>
 which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
-
+<br>
 With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
 </i>
 Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant con-
