@@ -61,7 +61,15 @@ is hosted by The Linux Foundation®.
 
 Deployed in Docker images.
 
-<i>A blockchain is a decentralized virtual ledger for recording transactions without central authority through a distributed cryptographic protocol. It is made up of three technologies – cryptographic algorithms, a distributed protocol, and replicated data – which combined provide a trustworthy service to a group of nodes that do not fully trust each other. With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
+<i>A blockchain is a decentralized virtual ledger for recording transactions without central authority through a distributed cryptographic protocol. It is made up of three technologies 
+
+1. cryptographic algorithms, 
+1. a distributed protocol, 
+1. and replicated data 
+<br>
+which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
+
+With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
 </i>
 Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant con-
 sensus using the PBFT protocol.
