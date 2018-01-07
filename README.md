@@ -97,10 +97,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
 
 
-### The Blockchain and State database.
-
-<img src="https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20LevelDB.PNG">
-
 ### Ordering service
 
 <img src="https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/fig1.png">
