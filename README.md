@@ -122,13 +122,16 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 # Step 3 Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
-# Step 4 Blockchain in the Cloud
+# Step 4 Blockchain in the IBM Cloud
 
+<a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a>
 
 # Resources
 
-# Blockchain in the Cloud 
-Oliver  <a href="https://ibm-blockchain.github.io/">Set up the environment</a>
+# Blockchain in the IBM Cloud 
+<a href="https://ibm-blockchain.github.io/">Set up the environment</a>
+
+<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png">
 
 <a href="https://ibm-blockchain.github.io/">Hyperledger Composer on IBM Cloud</a>
 
