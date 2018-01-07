@@ -111,13 +111,7 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://farm5.staticflickr.com/4496/37833953496_fa03154139_o.png" width="837" height="421" alt="Ivan Blockchain">
 
-# Hyperledger Fabric and its docker images 
-
-<img src="https://farm5.staticflickr.com/4506/23967210328_2ab9949bdb_o.png" width="701" height="812" alt="hyper docker">
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-
 
 ## Hyperledger, Blockchain and the IBM Blockchain Platform
 
