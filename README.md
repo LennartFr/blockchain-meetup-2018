@@ -125,22 +125,20 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 # Step 4 Blockchain in the IBM Cloud
 
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
+<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
+<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
+
 # Resources
 
 # Blockchain in the IBM Cloud 
 <a href="https://ibm-blockchain.github.io/">Set up the environment</a>
 
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png">
-
 <a href="https://ibm-blockchain.github.io/">Hyperledger Composer on IBM Cloud</a>
 
 # Zero to Bockchain
 <a href="https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html">Zero to Blockchain</a>
-
-
 
 [IBM Code: Blockchain Distributed database maintaining a continuously growing list of secured records or blocks](https://developer.ibm.com/code/technologies/blockchain/)
 
