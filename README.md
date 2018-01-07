@@ -67,7 +67,7 @@ Consensus protocol is pluggable, currently an implementation of Byzantine fault-
 sensus using the PBFT protocol.
 
 Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
-
+<p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
