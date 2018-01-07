@@ -89,6 +89,36 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <img src="https://www.altoros.com/blog/wp-content/uploads/2016/11/Fabric-1.0.png">
 
 
+# Overview of the Hyperledger architecture
+
+### The flow with one SDK
+
+<img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
+
+### The flow with two and more SDKs
+
+<img src="https://farm5.staticflickr.com/4506/37882671951_5f4f08348a_o.png" width="1142" height="635" alt="Hyper Ivan 2">
+
+### The Blockchain and State database.
+
+<img src="https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20LevelDB.PNG">
+
+### Ordering service
+
+<img src="https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/fig1.png">
+
+### Blockchain Ledger
+
+<img src="https://farm5.staticflickr.com/4496/37833953496_fa03154139_o.png" width="837" height="421" alt="Ivan Blockchain">
+
+# Hyperledger Fabric and its docker images 
+
+<img src="https://farm5.staticflickr.com/4506/23967210328_2ab9949bdb_o.png" width="701" height="812" alt="hyper docker">
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
+
 ## Hyperledger, Blockchain and the IBM Blockchain Platform
 
 <img src="https://farm5.staticflickr.com/4736/39515925842_19879ea37d_b.jpg" width="892" height="503" alt="IBM Blockchain CLoud">
