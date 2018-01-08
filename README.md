@@ -2,16 +2,16 @@
 
 # Blockchain for developers: from zero to running app in the cloud. The latest programming resources.  
 
-## Step 1 Hyperledger Composer Playground and creating a Business Network Archive (.bna) file
-<a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
-
-## Step 2 Creating a simple Hyperledger app running on one laptop
+## Step 1 Creating a simple Hyperledger app running on one laptop
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
 
-## Step 3 Creating a simple Hyperledger app running on two and more laptops
+## Step 2 Creating a simple Hyperledger app running on two and more laptops
+
+## Step 3 Hyperledger Composer Playground and creating a Business Network Archive (.bna) file
+<a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
 ## Step 4 Creating a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
