@@ -68,12 +68,12 @@ Deployed in Docker images.
 1. and replicated data 
 <br>
 which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
-<br>
+<p>
 With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
 </i>
 Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant con-
 sensus using the PBFT protocol.
-<br>
+<p>
 Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
@@ -81,7 +81,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
 <img src="https://www.altoros.com/blog/wp-content/uploads/2016/11/Fabric-1.0.png">
-
 
 # Overview of the Hyperledger architecture
 
