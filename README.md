@@ -5,8 +5,10 @@
 ## Step 1 Creating a simple Hyperledger app running on one laptop
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
+http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
+http://hyperledger-fabric.readthedocs.io/en/release/build_network.html
 
 ## Step 2 Creating a simple Hyperledger app running on two and more laptops
 
