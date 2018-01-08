@@ -110,20 +110,21 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 [Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
 
-# Step 1 A simple Hyperledger app
+# Step 1 Hyperledger Composer Playground and the bna file
+<a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
+
+# Step 2 A simple Hyperledger app running on one laptop
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
 
-# Step 2 Hyperledger Composer Playground
-<a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
+# Step 3 A simple Hyperledger app running on two and more laptops
 
-
-# Step 3 Decentralized energy with Hyperledger Composer
+# Step 4 A full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
-# Step 4 Blockchain in the IBM Cloud
+# Step 4 Setting up a Blockchain app in the IBM Cloud
 
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
