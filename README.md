@@ -61,7 +61,7 @@ So come and learn how to get started writing Blockchain apps, how to run them on
                              the cloud. Overview of the latest programming resources.<p>
              Raheel: Writing Blockchain apps. An experience report. How to plan your app, how to write it, how to deploy it.         
                                            
-8:30-9;00pm : Wrap up & Networking
+8:30-9:00pm : Wrap up & Networking
 
 # Requirements
 No experience is necessary, except an interest in Blockchain. 
