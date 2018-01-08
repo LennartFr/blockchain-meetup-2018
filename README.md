@@ -66,7 +66,7 @@ Deployed in Docker images.
 1. cryptographic algorithms, 
 1. a distributed protocol, 
 1. and replicated data 
-<br>
+<p>
 which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
 <p>
 With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
