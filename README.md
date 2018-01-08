@@ -134,7 +134,7 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 Questions:
 
-# 1
+# 1 Oliver's notes: https://ibm-blockchain.github.io/ and https://ibm.ent.box.com/v/ComposerGuide
 # 2 https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/index.html
 
 
