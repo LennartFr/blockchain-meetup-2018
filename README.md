@@ -2,6 +2,8 @@
 
 # Blockchain for developers: from zero to running app in the cloud. The latest programming resources.  
 
+Raheel's suggestion: https://github.com/IBM-Blockchain/marbles
+
 ## Step 1 Creating a simple Hyperledger app running on one laptop
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
