@@ -106,7 +106,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
 
-
 # Resources
 
 # Blockchain in the IBM Cloud 
