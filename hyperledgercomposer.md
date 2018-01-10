@@ -4,6 +4,7 @@
 
 [Hyperledger Composer](https://composer-playground.mybluemix.net/editor)
 
+~~~
 /**
  * Defines a data model for a marble trading network
  */
@@ -40,4 +41,4 @@ transaction TradeMarble {
   --> Marble marble
   --> Player newOwner
 }
-
+~~~
