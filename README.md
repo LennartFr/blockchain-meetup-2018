@@ -84,8 +84,6 @@ Deployed in Docker images.
 ## [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
 # Step 1 Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
-<img src="https://farm5.staticflickr.com/4770/39618901931_01983c3d45_z.jpg" width="406" height="578" alt="Hyperledger Composer 1">
-
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
 # Step 2 Creating a simple Hyperledger app running on one laptop
