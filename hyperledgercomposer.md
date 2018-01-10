@@ -14,7 +14,7 @@ Sample Business Networks:
 
 [Hyperledger Composer](https://composer-playground.mybluemix.net/editor)
 
-# Datamodel
+# Datamodel for the Marble Trading Network
 
 ~~~
 /**
