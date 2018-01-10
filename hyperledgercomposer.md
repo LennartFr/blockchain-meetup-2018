@@ -42,3 +42,44 @@ transaction TradeMarble {
   --> Player newOwner
 }
 ~~~
+
+# Let's play marbles:
+
+In the Test Tab: create two Player participants
+```
+{
+  "$class": "org.hyperledger_composer.marbles.Player",
+  "email": "memberA@acme.org",
+  "firstName": "Jenny",
+  "lastName": "Jones"
+}
+
+{
+  "$class": "org.hyperledger_composer.marbles.Player",
+  "email": "memberB@acme.org",
+  "firstName": "Billy",
+  "lastName": "Thompson"
+}
+~~~
+
+Create a Marble Asset:
+
+~~~
+
+{
+  "$class": "org.hyperledger_composer.marbles.Marble",
+  "marbleId": "marbleId:1234",
+  "size": "SMALL",
+  "color": "BLUE",
+  "owner": "resource:org.hyperledger_composer.marbles.Player#email:memberA@acme.org"
+}
+
+Submit a Transaction:
+
+~~~
+
+{
+  "$class": "org.hyperledger_composer.marbles.TradeMarble",
+  "marble": "resource:org.hyperledger_composer.marbles.Marble#marbleId:1234",
+  "newOwner": "resource:org.hyperledger_composer.marbles.Player#email:memberB@acme.org"
+}
