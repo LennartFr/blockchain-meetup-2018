@@ -81,12 +81,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://www.altoros.com/blog/wp-content/uploads/2016/11/Fabric-1.0.png">
 
-# Overview of the Hyperledger architecture
-
-### The flow with one SDK
-
-<img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
