@@ -41,17 +41,6 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
-
-# Hyperledger : http://hyperledger.org/
-
-Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
-is hosted by The Linux Foundation®. 
-
-Deployed in Docker images.
-
 <i>A blockchain is a decentralized virtual ledger for recording transactions without central authority through a distributed cryptographic protocol. It is made up of three technologies 
 
 1. cryptographic algorithms, 
@@ -68,6 +57,17 @@ sensus using the PBFT protocol.
 Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
+
+# Hyperledger : http://hyperledger.org/
+
+Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
+is hosted by The Linux Foundation®. 
+
+Deployed in Docker images.
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
