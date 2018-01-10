@@ -73,12 +73,6 @@ Deployed in Docker images.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
-
-[Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
-
-## [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
-
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
 
 ## [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
@@ -86,7 +80,12 @@ Deployed in Docker images.
 # Step 1 Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
+[Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
+[Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
+
+
 # Step 2 Creating a simple Hyperledger app running on one laptop
+## [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
