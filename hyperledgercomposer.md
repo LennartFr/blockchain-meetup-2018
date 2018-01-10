@@ -6,6 +6,8 @@ Our primary goal is to accelerate time to value, and make it easier to integrate
 
 You can use Composer to rapidly develop use cases and deploy a blockchain solution in weeks rather than months. Composer allows you to model your business network and integrate existing systems and data with your blockchain applications.
 
+[Hyperledger Composer Mocdeling Language](https://hyperledger.github.io/composer/reference/cto_language.html)
+
 Sample Business Networks:
 
 <img src="https://farm5.staticflickr.com/4770/39618901931_01983c3d45_z.jpg" width="406" height="578" alt="Hyperledger Composer 1">
