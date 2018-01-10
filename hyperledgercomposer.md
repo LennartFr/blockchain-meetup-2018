@@ -8,6 +8,9 @@ You can use Composer to rapidly develop use cases and deploy a blockchain soluti
 
 [Hyperledger Composer Mocdeling Language](https://hyperledger.github.io/composer/reference/cto_language.html)
 
+[Hyperledger Composer Commandline](https://hyperledger.github.io/composer/reference/commands.html)
+
+
 Sample Business Networks:
 
 <img src="https://farm5.staticflickr.com/4770/39618901931_01983c3d45_z.jpg" width="406" height="578" alt="Hyperledger Composer 1">
