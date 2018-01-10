@@ -74,8 +74,9 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
-
 <img src="https://farm5.staticflickr.com/4770/39618901931_01983c3d45_z.jpg" width="406" height="578" alt="Hyperledger Composer 1">
+
+[Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
 
 ## [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
 
