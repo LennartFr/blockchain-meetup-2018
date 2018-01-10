@@ -35,12 +35,6 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 
 <img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
 
-## The Blockchain Distributed Ledger
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-
-# Blockchain Usecases
-[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
-
 <i>A blockchain is a decentralized virtual ledger for recording transactions without central authority through a distributed cryptographic protocol. It is made up of three technologies 
 
 1. cryptographic algorithms, 
@@ -57,6 +51,12 @@ sensus using the PBFT protocol.
 Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
+
+## The Blockchain Distributed Ledger
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+
+# Blockchain Usecases
+[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
