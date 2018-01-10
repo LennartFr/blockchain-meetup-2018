@@ -108,12 +108,10 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
 
-# Step 3 Creating a simple Hyperledger app running on two and more laptops
-
-# Step 4 Creating a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
+# Step 3 Creating a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
-# Step 5 Setting up a Blockchain app in the IBM Cloud
+# Step 4 Setting up a Blockchain app in the IBM Cloud
 
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
