@@ -4,6 +4,7 @@
 
 [Hyperledger Composer](https://composer-playground.mybluemix.net/editor)
 
+
 ~~~
 /**
  * Defines a data model for a marble trading network
@@ -43,9 +44,12 @@ transaction TradeMarble {
 }
 ~~~
 
-# Let's play marbles:
+Let's play marbles!
+In the test pane
 
-In the Test Tab: create two Player participants
+<img src="https://farm5.staticflickr.com/4624/25748073888_82b8668a47_z.jpg" width="640" height="280" alt="Hyperledger Composer Test Pane">
+
+create two Player participants
 ```
 {
   "$class": "org.hyperledger_composer.marbles.Player",
