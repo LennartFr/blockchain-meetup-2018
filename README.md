@@ -75,6 +75,8 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 ## [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
 
+<img src="https://farm5.staticflickr.com/4770/39618901931_01983c3d45_z.jpg" width="406" height="578" alt="Hyperledger Composer 1">
+
 ## [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
 
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
