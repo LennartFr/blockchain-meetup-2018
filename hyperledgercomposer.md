@@ -12,6 +12,7 @@ Sample Business Networks:
 
 [Hyperledger Composer](https://composer-playground.mybluemix.net/editor)
 
+# Datamodel
 
 ~~~
 /**
@@ -52,7 +53,7 @@ transaction TradeMarble {
 }
 ~~~
 
-Let's play marbles!
+# Let's play marbles!
 In the test pane
 
 <img src="https://farm5.staticflickr.com/4624/25748073888_82b8668a47_z.jpg" width="640" height="280" alt="Hyperledger Composer Test Pane">
@@ -95,3 +96,5 @@ Submit a Transaction:
   "marble": "resource:org.hyperledger_composer.marbles.Marble#marbleId:1234",
   "newOwner": "resource:org.hyperledger_composer.marbles.Player#email:memberB@acme.org"
 }
+
+
