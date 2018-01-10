@@ -74,15 +74,13 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-[Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
+## [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
 
-[Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
-
-[Hyperledger Fabric](https://hyperledger.org/projects/fabric)
+## [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
 
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
 
-[IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
+## [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
 ## Nodered and Hyperledger Composer
 
