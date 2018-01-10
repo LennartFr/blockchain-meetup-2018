@@ -12,28 +12,21 @@ Lennart is a Developer Advocate with IBM on the San Francisco City Team focusing
 
 Raheel is a software Engineer focused on developing journeys for Emerging Technologies team, part of IBM’s Digital Business Group. He has worked on journeys showcasing Blockchain technologies and Fintech services. In addition, his interests include IoT and Data Science. Raheel’s previous experience includes over five years in the energy industry. He completed his bachelors and masters degrees from Texas A&M University. Raheel is an avid sports fan. 
 
-# Details
-
-What we'll do
-
-Blockchain is one of the most written-about technologies in the world today, promising to modernize and revolutionize business processing from Supply Chain to Healthcare, Food Traceability, Voting, Payment and Digital Currency, Real Estate, Aircraft Maintenance, International Payments, Insurance (Smart Contracts), Regulatory Compliance and Audit, etc.
-
-So come and learn how to get started writing Blockchain apps, how to run them on your laptop and bring them to the cloud.
-
-
 # Agenda:
 
 6:00-6:30pm: Light dinner and registration
 
 6-30-8:30pm: Talks: <p>
              Lennart: The Blockchain Building Blocks:  your first app, how do you deploy it, how do you move it to 
-                             the cloud. Overview of the latest programming resources.<p>
-             Raheel: Writing Blockchain apps. An experience report. How to plan your app, how to write it, how to deploy it.         
+                      the cloud. Overview of the latest programming resources.<p>
+                               
+             Raheel: Writing Blockchain apps. An experience report. How to plan your app, how to write it, how to deploy it.
                                            
 8:30-9:00pm : Wrap up & Networking
 
-# Requirements
-No experience is necessary, except an interest in Blockchain. 
+Requirements:
+
+Bring a laptop
 
 <img src="https://farm5.staticflickr.com/4589/38703421954_a76611811a_b.jpg" width="824" height="207" alt="blueband"> 
 
@@ -79,8 +72,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
-<img src="https://www.altoros.com/blog/wp-content/uploads/2016/11/Fabric-1.0.png">
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 [Hyperledger](http://hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
@@ -88,8 +79,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
 
 [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
-
-[Hyperledger on GitHub](https://github.com/hyperledger)
 
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
 
@@ -103,7 +92,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
 # Step 2 Creating a simple Hyperledger app running on one laptop
-
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
 
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
@@ -112,7 +100,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
 # Step 4 Setting up a Blockchain app in the IBM Cloud
-
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
