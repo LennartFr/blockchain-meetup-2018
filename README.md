@@ -8,6 +8,7 @@
 
 Lennart is a Developer Advocate with IBM on the San Francisco City Team focusing on Blockhain and Fintech. With a background in program development he works with startups and developers to help them adopt Blockchain and Fintech, talks at industry events and spends his weekends at hackathons. 
 
+
 ## Raheel Zubairy
 
 Raheel is a software Engineer focused on developing journeys for Emerging Technologies team, part of IBM’s Digital Business Group. He has worked on journeys showcasing Blockchain technologies and Fintech services. In addition, his interests include IoT and Data Science. Raheel’s previous experience includes over five years in the energy industry. He completed his bachelors and masters degrees from Texas A&M University. Raheel is an avid sports fan. 
