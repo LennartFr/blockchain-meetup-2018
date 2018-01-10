@@ -2,37 +2,6 @@
 
 # Blockchain for developers: from zero to running app in the cloud. The latest programming resources.  
 
-## Step 1 Creating a simple Hyperledger app running on one laptop
-
-<a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
-http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html
-
-<a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
-http://hyperledger-fabric.readthedocs.io/en/release/build_network.html
-
-## Step 2 Creating a simple Hyperledger app running on two and more laptops
-
-## Step 3 Hyperledger Composer Playground and creating a Business Network Archive (.bna) file
-<a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
-
-## Step 4 Creating a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
-<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
-
-## Step 5 Setting up a Blockchain app in the IBM Cloud
-
-<a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
-
-Questions:
-
-# 1 Oliver's notes: https://ibm-blockchain.github.io/ and https://ibm.ent.box.com/v/ComposerGuide
-# 2 https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/index.html
-
-
-
 # Speakers
 
 ## Lennart Frantzell 
