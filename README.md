@@ -77,9 +77,10 @@ Deployed in Docker images.
 
 # Step 1 Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
-<p>
+
 [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
-<p>
+
+
 [Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
 
 # Step 2 Creating a simple Hyperledger app running on your laptop
@@ -95,6 +96,8 @@ Deployed in Docker images.
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 
 ## Step 4.1 Setting up a Blockchain app in the IBM Cloud with Kypernetes
+[Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
+
 ## Step 4.1 Setting up an IBM Blockchain app in the IBM Cloud 
 
 ## [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
