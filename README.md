@@ -83,7 +83,9 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
 
-# Step 1 Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
+# Developing Blockchain apps in Hyperledger
+
+## Step 1 Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
 [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
@@ -91,24 +93,24 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 [Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
 
-# Step 2 Creating a simple Hyperledger app running on your laptop
-## [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
+## Step 2 Creating a simple Hyperledger app running on your laptop
+### [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
 <p>
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
 
-# Step 3 Creating a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
+## Step 3 Creating a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
-# Step 4 Setting up a Blockchain app in the IBM Cloud
+## Step 4 Setting up a Blockchain app in the IBM Cloud
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 
-## Step 4.1 Setting up a Blockchain app in the IBM Cloud with Kypernetes
+### Step 4.1 Setting up a Blockchain app in the IBM Cloud with Kypernetes
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
-## Step 4.1 Setting up an IBM Blockchain app in the IBM Cloud 
+## Step 4.2 Setting up an IBM Blockchain app in the IBM Cloud 
 
-## [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
+# [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
