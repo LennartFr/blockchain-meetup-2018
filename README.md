@@ -84,7 +84,7 @@ Deployed in Docker images.
 [Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
 
 
-# Step 2 Creating a simple Hyperledger app running on one laptop
+# Step 2 Creating a simple Hyperledger app running on your laptop
 ## [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
 
