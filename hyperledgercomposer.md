@@ -1,3 +1,5 @@
+<img src="https://farm5.staticflickr.com/4589/38703421954_a76611811a_b.jpg" width="824" height="207" alt="blueband"> 
+
 # Hyperledger Composer
 
 Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier. 
