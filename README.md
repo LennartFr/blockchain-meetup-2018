@@ -91,8 +91,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
-[Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
-
+[Hyperledger Composer Documentation](https://hyperledger.github.io/composer/introduction/introduction.html)
 
 [Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
 
