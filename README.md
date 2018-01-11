@@ -93,7 +93,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 [Hyperledger Composer Documentation](https://hyperledger.github.io/composer/introduction/introduction.html)
 
-[Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
+[Hands-on: Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
 
 ## Step 2 Creating a simple Hyperledger app running on your laptop
 ### [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
