@@ -30,7 +30,7 @@ Bring a laptop
 <img src="https://farm5.staticflickr.com/4589/38703421954_a76611811a_b.jpg" width="824" height="207" alt="blueband"> 
 
 # How did it all start?
-
+ 
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
 
 <img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
@@ -61,13 +61,11 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
-<a href="https://en.wikipedia.org/wiki/Air_France_Flight_447">Air France Flight 447 flight from Rio de Janeiro, Brazil to Paris, France, June 1 2009</a>
-<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Airspeed_p1230157.jpg/375px-Airspeed_p1230157.jpg">
 <p>
 Pitot Tube
 <p>
-  
+<a href="https://en.wikipedia.org/wiki/Air_France_Flight_447">Air France Flight 447 flight from Rio de Janeiro, Brazil to Paris, France, June 1 2009</a>  
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
