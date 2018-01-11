@@ -94,6 +94,9 @@ Deployed in Docker images.
 # Step 4 Setting up a Blockchain app in the IBM Cloud
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 
+## Step 4.1 Setting up a Blockchain app in the IBM Cloud with Kypernetes
+## Step 4.1 Setting up an IBM Blockchain app in the IBM Cloud 
+
 ## [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
