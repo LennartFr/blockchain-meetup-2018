@@ -52,8 +52,7 @@ which combined provide a trustworthy service to a group of nodes that do not ful
 <p>
 With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
 </i>
-Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant con-
-sensus using the PBFT (Practical Byzantine Fault Tolerance) protocol.
+Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant consensus using the PBFT (Practical Byzantine Fault Tolerance) protocol.
 <p>
 Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
 <p>
