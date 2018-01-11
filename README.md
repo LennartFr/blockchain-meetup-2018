@@ -86,6 +86,9 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 # Developing Blockchain apps in Hyperledger
 
 ## Step 1 Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
+<p>
+<img src="https://hyperledger.github.io/composer/assets/img/Composer-Diagram.svg">
+
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
 [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
