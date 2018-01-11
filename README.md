@@ -38,7 +38,7 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 <i>
 The first work on a cryptographically secured chain of blocks was described in 1991 by Stuart Haber and W. Scott Stornetta.[17] In 1992, Bayer, Haber and Stornetta incorporated Merkle trees to the design, which improved its efficiency by allowing several documents to be collected into one block.
   </i><p><i>
-A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server. The first blockchain was conceptualised by an anonymous person or group known as Satoshi Nakamoto in 2008. It was implemented the following year as a core component of the digital currency bitcoin, where it serves as the public ledger for all transactions on the network.By using a blockchain, bitcoin became the first digital currency to solve the double spending problem without requiring a trusted administrator and has been the inspiration for many additional applications.
+A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server. The first blockchain was conceptualised by an anonymous person or group known as Satoshi Nakamoto in 2008. 
 </i><p>
 https://en.wikipedia.org/wiki/Blockchain
 <p>
