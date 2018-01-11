@@ -77,14 +77,15 @@ Deployed in Docker images.
 
 # Step 1 Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
-
+<p>
 [Hyperledger Composer](https://hyperledger.github.io/composer/introduction/introduction.html)
+<p>
 [Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
 
 # Step 2 Creating a simple Hyperledger app running on your laptop
 ## [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
-
+<p>
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/build_network.html">Building your first Network</a>
 
 # Step 3 Creating a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
