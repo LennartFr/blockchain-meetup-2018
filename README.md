@@ -61,7 +61,7 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
-## The importance of the shared ledger.  
+## Example of the importance of a shared ledger. <p> 
 <a href="https://en.wikipedia.org/wiki/Air_France_Flight_447">Air France Flight 447 flight from Rio de Janeiro, Brazil to Paris, France, June 1 2009</a>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Airspeed_p1230157.jpg/375px-Airspeed_p1230157.jpg">
 <p>
@@ -92,7 +92,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 # Developing Blockchain apps in Hyperledger
 
-## Step 1 Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
+## Step 1 Demo: Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
 <p>
 <img src="https://hyperledger.github.io/composer/assets/img/Composer-Diagram.svg">
 
@@ -102,7 +102,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 [Hands-on: Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
 
-## Step 2 Creating a simple Hyperledger app running on your laptop
+## Demo: Step 2 Creating a simple Hyperledger app running on your laptop
 ### [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
 <p>
@@ -117,7 +117,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 ### Step 4.1 Setting up a Blockchain app in the IBM Cloud with Kypernetes
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
-## Step 4.2 Setting up an IBM Blockchain app in the IBM Cloud 
+## Demo: Step 4.2 Setting up an IBM Blockchain app in the IBM Cloud 
 
 # [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
