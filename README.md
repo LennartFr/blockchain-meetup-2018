@@ -65,6 +65,9 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Airspeed_p1230157.jpg/375px-Airspeed_p1230157.jpg">
 <p>
+Pitot Tube
+<p>
+  
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
