@@ -96,6 +96,8 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 ## Step 1 Demo: Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
 <p>
 <img src="https://hyperledger.github.io/composer/assets/img/Composer-Diagram.svg">
+<p>
+<img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
 
 <a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
 
