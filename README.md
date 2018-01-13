@@ -27,7 +27,7 @@ Requirements:
 
 Bring a laptop
 
-<img src="https://farm5.staticflickr.com/4589/38703421954_a76611811a_b.jpg" width="824" height="207" alt="blueband"> 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # How did it all start?
  
