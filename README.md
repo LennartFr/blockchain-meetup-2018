@@ -122,7 +122,9 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 ## Demo: Step 4.2 Setting up an IBM Blockchain app in the IBM Cloud 
 
-# [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
+[IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/)
+
+[IBM Blockchain Platform in the IBM Cloud](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
