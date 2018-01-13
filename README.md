@@ -108,9 +108,9 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 # Developing Blockchain apps in Hyperledger
 
 
-# Labs
+# Exercises
 
-## Lab 1: Hyperledger Composer Marbles Network 
+## Exercise 1: Hyperledger Composer Marbles Network 
 <img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
 
 [Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/tutorials.html)
@@ -120,18 +120,18 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 <a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
 <p>
   
-## Lab 2 Create the full marbles app
+## Excercise 2 Create the full marbles app
 <img src="https://farm5.staticflickr.com/4665/27889047409_53ae2f45fd_z.jpg" width="640" height="371" alt="bigmarbles">
 
 https://github.com/IBM-Blockchain/marbles
 
-## Step 3 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
+## Exercise 3 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
 An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>
 
-### Step 3.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
+### Exercise 3.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
-### Step 3.2 Setting up a Blockchain app in the IBM Cloud
+### Exercise 3.2 Setting up a Blockchain app in the IBM Cloud
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
@@ -139,12 +139,10 @@ An enterprise-ready blockchain platform designed to accelerate the development, 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
 
-## Lab 4 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
+## Exercise 4 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-
 
 # Resources
 
