@@ -18,7 +18,7 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 
 6-30-8:30pm: Talks and demos: <p>
              Lennart: The Blockchain Building Blocks:  your first app, how do you deploy it. 
-                      Overview of the latest programming resources.<p>                             
+                      Overview of the latest programming resources.<br>                          
              Raheel: Writing Blockchain apps. An experience report. How to plan your app, how to write it, how to deploy it.
                                            
 8:30-9:00pm : Wrap up & Networking
