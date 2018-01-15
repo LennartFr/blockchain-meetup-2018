@@ -135,7 +135,9 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 https://github.com/IBM-Blockchain/marbles
 
 ## Exercise 3 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
-An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>
+An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>  
+<p>  
+ibm.biz/ibmbctechpaper
 
 ### Exercise 3.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
