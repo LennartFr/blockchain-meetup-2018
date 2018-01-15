@@ -29,7 +29,7 @@ Bring a laptop
 
 # We will be using Hyperledger Composer, Hyperledger Fabric and the IBM Cloud
 
-# Step 1: Develop and run your business network
+# Step 1: In Composer, Develop and run your business network. 
 # Step 2: Develop and run your app locally
 # Step 3: Deploy your app to the IBM Blockchain Platform on the IBM Cloud.
 
