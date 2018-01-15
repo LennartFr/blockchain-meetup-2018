@@ -66,12 +66,7 @@ Consensus protocol is pluggable, currently an implementation of Byzantine fault-
 Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
-
-## The Blockchain Distributed Ledger
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-<p>
-  
-  
+   
 ## Blockchain main components 
 
 ### Ordering Service – Ordering and synchronizing transactions
@@ -84,7 +79,11 @@ To put it simply, the Certificate Authority (CA) provides membership. All entiti
 The peer exists to perform two main functions: execute/validate transactions & maintain ledgers. The peer runs smart contracts, and is the holder of transaction history and the current state of assets on the network’s channels. At the end of the day it’s all about accessing the peer (directly or indirectly) and performing reads and writes against the ledger. When a member provides an end user access to the network, they’re really providing access to the functionality of the peer.
 <br>
 https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
-  
+
+## The Blockchain Distributed Ledger
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+<p>
+
 ## Example of the importance of a shared ledger. <p> 
 <a href="https://en.wikipedia.org/wiki/Air_France_Flight_447">Air France Flight 447 flight from Rio de Janeiro, Brazil to Paris, France, June 1 2009</a>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Airspeed_p1230157.jpg/375px-Airspeed_p1230157.jpg">
