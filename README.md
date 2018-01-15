@@ -29,7 +29,7 @@ Bring a laptop
 
 # We will be using Hyperledger Composer, Hyperledger Fabric and the IBM Cloud
 
-# Step 1: In Composer, develop and run your business network. Export .bna file
+# Step 1: In Composer, develop and run your business network datamodel. Export .bna file
 # Step 2: Develop and run your Angular + .bna file + Fabric app locally
 # Step 3: Deploy your app to the IBM Blockchain Platform on the IBM Cloud.
 
