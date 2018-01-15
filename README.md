@@ -26,7 +26,8 @@ Requirements:
 
 Bring a laptop
 
-<img src="https://farm5.staticflickr.com/4622/38808577705_378b51940b_o.png" width="539" height="307" alt="Blockchain Dev">
+<img src="https://farm5.staticflickr.com/4622/38808577705_378b51940b_o.png" width="539" height="307" alt="Blockchain Dev"><p>
+<a href="https://developer.ibm.com/blockchain/sandbox/">IBM Blockchain Sandbox</a>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
