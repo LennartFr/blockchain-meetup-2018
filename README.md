@@ -25,6 +25,7 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 Requirements:
 
 Bring a laptop
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="https://farm5.staticflickr.com/4744/39675745272_d68725804a_o.png" width="626" height="352" alt="Blockchain Dev">
 <p>
