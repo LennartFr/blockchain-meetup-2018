@@ -92,6 +92,10 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 Pitot Tube
 <p>
   
+<img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
+<p>
+Chaincode written in Go or Java
+  
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
