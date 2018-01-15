@@ -27,7 +27,12 @@ Requirements:
 Bring a laptop
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-<img src="https://farm5.staticflickr.com/4744/39675745272_d68725804a_o.png" width="626" height="352" alt="Blockchain Dev">
+# We will be using Hyperledger Composer, Hyperledger Fabric and the IBM Cloud
+
+# Step 1: Develop your business network
+# Step 2: Develop locally
+# Step 3: Deploy your app to the IBM Blockchain Platform on the IBM Cloud.
+
 <p>
 <a href="https://developer.ibm.com/blockchain/sandbox/">IBM Blockchain Sandbox</a>
 
