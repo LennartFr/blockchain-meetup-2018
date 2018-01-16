@@ -68,17 +68,6 @@ Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-c
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
    
-## Blockchain main components 
-
-### Ordering Service – Ordering and synchronizing transactions
-... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
-
-###  Certificate Authority – Issuing certificates to participants
-To put it simply, the Certificate Authority (CA) provides membership. All entities in the network (peers, orderers, clients, etc.) must have an identity to communicate, authenticate and ultimately transact. These “identities” exist in the form of x509 certificates (i.e. enrollment certificates), which are required for any direct participation in the blockchain network.... 
-
-###  Peer – Validating/endorsing transactions
-The peer exists to perform two main functions: execute/validate transactions & maintain ledgers. The peer runs smart contracts, and is the holder of transaction history and the current state of assets on the network’s channels. At the end of the day it’s all about accessing the peer (directly or indirectly) and performing reads and writes against the ledger. When a member provides an end user access to the network, they’re really providing access to the functionality of the peer.
-
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
@@ -195,3 +184,13 @@ An enterprise-ready blockchain platform designed to accelerate the development, 
 
 [Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
 
+## Blockchain main components 
+
+### Ordering Service – Ordering and synchronizing transactions
+... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
+
+###  Certificate Authority – Issuing certificates to participants
+To put it simply, the Certificate Authority (CA) provides membership. All entities in the network (peers, orderers, clients, etc.) must have an identity to communicate, authenticate and ultimately transact. These “identities” exist in the form of x509 certificates (i.e. enrollment certificates), which are required for any direct participation in the blockchain network.... 
+
+###  Peer – Validating/endorsing transactions
+The peer exists to perform two main functions: execute/validate transactions & maintain ledgers. The peer runs smart contracts, and is the holder of transaction history and the current state of assets on the network’s channels. At the end of the day it’s all about accessing the peer (directly or indirectly) and performing reads and writes against the ledger. When a member provides an end user access to the network, they’re really providing access to the functionality of the peer.
