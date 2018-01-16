@@ -87,6 +87,7 @@ Participants in the network govern and agree by consensus on the updates to the 
 Every record in the distributed ledger has a timestamp and unique crytographic signature, thus making the ledger an auditable history of all transactions in the network. One implementation of distributed ledger technology is the open source Hyperledger Fabric blockchain.
 
 https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
+
 ## Example of the importance of a shared ledger. <p> 
   
 <a href="https://en.wikipedia.org/wiki/Air_France_Flight_447">Air France Flight 447 flight from Rio de Janeiro, Brazil to Paris, France, June 1 2009</a>  
@@ -94,7 +95,7 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 <p>
 Pitot Tube
 <p>
-   
+
 <img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
 <p>
 Chaincode written in Go or Java
