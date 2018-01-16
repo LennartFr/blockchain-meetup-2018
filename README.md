@@ -68,7 +68,7 @@ Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-c
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
    
-## The Blockchain Distributed Ledger
+## From Double-Entry Bookkeeping to the Blockchain Distributed Ledger
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pacioli.jpg/440px-Pacioli.jpg">
 <p>
