@@ -79,11 +79,12 @@ To put it simply, the Certificate Authority (CA) provides membership. All entiti
 ###  Peer – Validating/endorsing transactions
 The peer exists to perform two main functions: execute/validate transactions & maintain ledgers. The peer runs smart contracts, and is the holder of transaction history and the current state of assets on the network’s channels. At the end of the day it’s all about accessing the peer (directly or indirectly) and performing reads and writes against the ledger. When a member provides an end user access to the network, they’re really providing access to the functionality of the peer.
 
-### The Blockchain shared ledger
-<br>
+## The Blockchain Distributed Ledger
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pacioli.jpg/440px-Pacioli.jpg">
 <p>
-  
+
 Fra Luca Bartolomeo de Pacioli c. 1447–1517) was an Italian mathematician, Franciscan friar, collaborator with Leonardo da Vinci, and a seminal contributor to the field now known as accounting. 
 
 He is referred to as "The Father of Accounting and Bookkeeping" in Europe and he was the first person to publish a work on the double-entry system of book-keeping in that continent.
@@ -95,10 +96,6 @@ Participants in the network govern and agree by consensus on the updates to the 
 
 Every record in the distributed ledger has a timestamp and unique crytographic signature, thus making the ledger an auditable history of all transactions in the network. One implementation of distributed ledger technology is the open source Hyperledger Fabric blockchain.
 
-
-
-
-
 https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
 ## Example of the importance of a shared ledger. <p> 
   
@@ -107,11 +104,7 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 <p>
 Pitot Tube
 <p>
-  
-## The Blockchain Distributed Ledger
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-<p>
-  
+   
 <img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
 <p>
 Chaincode written in Go or Java
