@@ -69,14 +69,15 @@ Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-c
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
    
 ## The Blockchain Distributed Ledger
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-<p>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pacioli.jpg/440px-Pacioli.jpg">
 <p>
-
 Fra Luca Bartolomeo de Pacioli c. 1447–1517) was an Italian mathematician, Franciscan friar, collaborator with Leonardo da Vinci, and a seminal contributor to the field now known as accounting. 
 
 He is referred to as "The Father of Accounting and Bookkeeping" in Europe and he was the first person to publish a work on the double-entry system of book-keeping in that continent.
+<p>
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+<p>
 
 The business ledger goes back to 
 A distributed ledger is a type of database that is shared, replicated, and synchronized among the members of a network. The distributed ledger records the transactions, such as the exchange of assets or data, among the participants in the network.
