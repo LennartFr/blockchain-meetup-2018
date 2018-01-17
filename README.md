@@ -27,18 +27,6 @@ Requirements:
 Bring a laptop
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# We will be using Hyperledger Composer, Hyperledger Fabric and the IBM Cloud
-# Development phases
-
-## Phase 1: In Composer, develop and run your business network datamodel. Export .bna file
-## Phase 2: Develop and run your Angular + .bna file + Fabric app locally
-## Phase 3: Deploy your app to the IBM Blockchain Platform on the IBM Cloud.
-
-<p>
-<a href="https://developer.ibm.com/blockchain/sandbox/">IBM Blockchain Sandbox</a>
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 # How did it all start?
  
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
