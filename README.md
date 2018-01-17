@@ -22,9 +22,15 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
                                            
 8:30-9:00pm : Wrap up & Networking
 
-Requirements:
+# Requirements:
 
 Bring a laptop
+
+# Download code for Exercises 
+
+1. git clone https://github.com/IBM/Decentralized-Energy-Composer
+
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # How did it all start?
