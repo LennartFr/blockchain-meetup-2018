@@ -119,8 +119,6 @@ Deployed in Docker images.
 <p>
 https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-architecture-6d3c83818eb1
 <p>
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 
 # Hyperledger main components 
 
