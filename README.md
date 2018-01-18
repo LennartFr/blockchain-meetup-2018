@@ -133,10 +133,11 @@ The peer exists to perform two main functions: execute/validate transactions & m
 <br>
 https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
 
-<p>
-  
-## Chaincode written in Go or Java
+## Channels
+A Hyperledger Fabric channel is a private “subnet” of communication between two or more specific network members, for the purpose of conducting private and confidential transactions. 
 
+
+## Chaincode
 <p>
   
 <img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
