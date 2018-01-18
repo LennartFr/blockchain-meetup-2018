@@ -103,12 +103,12 @@ Pitot Tube
   
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Blockchain main components 
-
-<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
+<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
 <p>
 
-<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
+# Hyperledger main components 
+
+<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
 <p>
 
 ## Ordering Service – Ordering and synchronizing transactions
