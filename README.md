@@ -90,17 +90,17 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 Pitot Tube
 <p>
   
-  <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
-<p>
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Blockchain main components 
+ <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
+<p>
 
-### Ordering Service – Ordering and synchronizing transactions
+# Blockchain main components 
+
+## Ordering Service – Ordering and synchronizing transactions
 ... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
 
-#### Consensus
+## Consensus
 Consensus is the process by which a network of nodes provides a guaranteed ordering of transactions and validates the block of transactions. Consensus must provide the following core functionality:
 • 
 Confirms the correctness of all transactions in a proposed block, according to endorsement and consensus policies.
@@ -111,20 +111,19 @@ Interfaces and depends on smart-contract layer to verify correctness of an order
 <p>
 Consensus Algorithm: <a href="https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf">Kafka</a>
 
-###  Certificate Authority – Issuing certificates to participants
+##  Certificate Authority – Issuing certificates to participants
 To put it simply, the Certificate Authority (CA) provides membership. All entities in the network (peers, orderers, clients, etc.) must have an identity to communicate, authenticate and ultimately transact. These “identities” exist in the form of x509 certificates (i.e. enrollment certificates), which are required for any direct participation in the blockchain network.... 
 
-###  Peer – Validating/endorsing transactions
+##  Peer – Validating/endorsing transactions
 The peer exists to perform two main functions: execute/validate transactions & maintain ledgers. The peer runs smart contracts, and is the holder of transaction history and the current state of assets on the network’s channels. At the end of the day it’s all about accessing the peer (directly or indirectly) and performing reads and writes against the ledger. When a member provides an end user access to the network, they’re really providing access to the functionality of the peer.
 <br>
 https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
 
 <img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
 <p>
-Chaincode written in Go or Java
+## Chaincode written in Go or Java
 <p>
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-  
+ Chaincode is a piece of code that is written in one of the supported languages such as Go or Java. It is installed and instantiated through an SDK or CLI onto a network of Hyperledger Fabric peer nodes, enabling interaction with that network's shared ledger.  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband"> 
   
 # Blockchain Usecases
