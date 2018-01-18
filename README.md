@@ -30,12 +30,11 @@ Syed works with Developers and non-developers alike to show them the IBM Cloud p
 # Requirements:
 Bring a laptop
 
-# Chat: https://chat.hyperledger.org/c
+# Chat: https://chat.hyperledger.org/
 
 ## Office Hours: https://calendly.com/alfsf <p> 
   
                 alf@us.ibm.com
-
 
 # Download code for Exercises 
 
@@ -103,6 +102,12 @@ Pitot Tube
   
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+[Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
+
+<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
+<p>
+
+
 # Hyperledger : http://hyperledger.org/
 
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
@@ -116,11 +121,6 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 <p>
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-[Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
-
-
-<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
-<p>
 
 # Hyperledger main components 
 
