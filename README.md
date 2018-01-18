@@ -33,6 +33,7 @@ Bring a laptop
 # Chat: https://chat.hyperledger.org/c
 
 # Office Hours: https://calendly.com/alfsf <p> 
+  
                 alf@us.ibm.com
 
 
