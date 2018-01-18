@@ -103,13 +103,13 @@ Pitot Tube
   
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
- <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
+# Blockchain main components 
+
+<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
 <p>
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
 <p>
-
-# Blockchain main components 
 
 ## Ordering Service – Ordering and synchronizing transactions
 ... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
