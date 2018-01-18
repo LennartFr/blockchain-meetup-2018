@@ -94,7 +94,7 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 
 ## Example of the importance of a shared ledger. <p> 
   
-<a href="https://en.wikipedia.org/wiki/Air_France_Flight_447">Air France Flight 447 flight from Rio de Janeiro, Brazil to Paris, France, June 1 2009</a>  
+<a href="https://en.wikipedia.org/wiki/Air_France_Flight_447">Air France Flight 447 flight from Rio de Janeiro, Brazil to Paris, France, June 1 2009. Airbus</a>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Airspeed_p1230157.jpg/375px-Airspeed_p1230157.jpg">
 <p>
 Pitot Tube
