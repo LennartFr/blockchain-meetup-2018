@@ -100,6 +100,9 @@ Pitot Tube
  <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
 <p>
 
+<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
+<p>
+
 # Blockchain main components 
 
 ## Ordering Service – Ordering and synchronizing transactions
@@ -137,8 +140,6 @@ Chaincode is a piece of code that is written in one of the supported languages s
   
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
-
-<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
 
 # Hyperledger : http://hyperledger.org/
 
