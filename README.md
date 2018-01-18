@@ -28,8 +28,13 @@ Syed works with Developers and non-developers alike to show them the IBM Cloud p
 8:30-9:00pm : Wrap up & Networking
 
 # Requirements:
-
 Bring a laptop
+
+# Chat: https://chat.hyperledger.org/c
+
+# Office Hours: https://calendly.com/alfsf <p> 
+                alf@us.ibm.com
+
 
 # Download code for Exercises 
 
