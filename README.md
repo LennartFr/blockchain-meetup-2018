@@ -99,7 +99,9 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 <p>
 Pitot Tube
 <p>
-  
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
