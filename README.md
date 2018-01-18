@@ -167,7 +167,9 @@ Chaincode is a piece of code that is written in one of the supported languages s
 ## Exercise 1: Hyperledger Composer Playground Tutorial 
 <img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
 <p>
+  
 [Hyperledger Composer Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
+
 <p>
 <a href="https://hyperledger.github.io/composer/introduction/introduction.html">Hyperledger Composer Documentation</a>
 <p>
