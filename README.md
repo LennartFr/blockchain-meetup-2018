@@ -124,6 +124,8 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 # Hyperledger main components 
 
+<img src="https://farm5.staticflickr.com/4764/39799312611_9fdc4ea1c6_z.jpg" width="640" height="348" alt="BC Flow">
+
 ## Ordering Service – Ordering and synchronizing transactions
 ... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
 
