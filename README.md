@@ -141,7 +141,6 @@ Interfaces and depends on smart-contract layer to verify correctness of an order
 
 Consensus Algorithm: <a href="https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf">Kafka</a>
 
-
 ##  Certificate Authority – Issuing certificates to participants
 To put it simply, the Certificate Authority (CA) provides membership. All entities in the network (peers, orderers, clients, etc.) must have an identity to communicate, authenticate and ultimately transact. These “identities” exist in the form of x509 certificates (i.e. enrollment certificates), which are required for any direct participation in the blockchain network.... 
 
@@ -152,7 +151,6 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 
 ## Channels
 A Hyperledger Fabric channel is a private “subnet” of communication between two or more specific network members, for the purpose of conducting private and confidential transactions. 
-
 
 ## Chaincode
 <p>
@@ -179,6 +177,8 @@ Chaincode is a piece of code that is written in one of the supported languages s
 <a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
 <p>
   
+### Hyperledger Fabric Network bootstrapping made simple for experimentation, development and testing  https://github.com/ibm-silvergate/netcomposer/blob/master/README.md  
+
 ## Exercise 2 Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
   
@@ -223,8 +223,6 @@ An enterprise-ready blockchain platform designed to accelerate the development, 
 [Blockchain on IBM Cloud](https://console.bluemix.net/catalog/services/blockchain/)
 
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
-
-## Hyperledger Fabric Network bootstrapping made simple for experimentation, development and testing  https://github.com/ibm-silvergate/netcomposer/blob/master/README.md  
 
 ## Nodered and Hyperledger Composer
 
