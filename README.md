@@ -170,6 +170,8 @@ Chaincode is a piece of code that is written in one of the supported languages s
 
 # Exercises
 
+<a href="https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html">IBM Blockchain 101: Quick-start guide for developers. Create your first blockchain network and start coding applications</a>
+
 ## Exercise 1: Hyperledger Composer Playground Tutorial 
 <img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
 <p>
