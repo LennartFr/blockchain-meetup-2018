@@ -124,9 +124,6 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 # Hyperledger main components 
 
-<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
-<p>
-
 ## Ordering Service – Ordering and synchronizing transactions
 ... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
 
@@ -139,7 +136,16 @@ Agrees on order and correctness and hence on results of execution (implies agree
 • 
 Interfaces and depends on smart-contract layer to verify correctness of an ordered set of transactions in a block
 <p>
+
+<a href="https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf">Generalized Hyperledger Consensus Flow</a> 
+
+<img src="https://farm5.staticflickr.com/4610/39798811151_fe95c18775_z.jpg" width="640" height="398" alt="consensus">
+<p>
+
 Consensus Algorithm: <a href="https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf">Kafka</a>
+
+
+
 
 ##  Certificate Authority – Issuing certificates to participants
 To put it simply, the Certificate Authority (CA) provides membership. All entities in the network (peers, orderers, clients, etc.) must have an identity to communicate, authenticate and ultimately transact. These “identities” exist in the form of x509 certificates (i.e. enrollment certificates), which are required for any direct participation in the blockchain network.... 
