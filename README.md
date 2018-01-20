@@ -137,14 +137,7 @@ Agrees on order and correctness and hence on results of execution (implies agree
 Interfaces and depends on smart-contract layer to verify correctness of an ordered set of transactions in a block
 <p>
 
-<a href="https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf">Generalized Hyperledger Consensus Flow</a> 
-
-<img src="https://farm5.staticflickr.com/4610/39798811151_fe95c18775_z.jpg" width="640" height="398" alt="consensus">
-<p>
-
 Consensus Algorithm: <a href="https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf">Kafka</a>
-
-
 
 
 ##  Certificate Authority – Issuing certificates to participants
