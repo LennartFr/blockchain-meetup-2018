@@ -132,8 +132,6 @@ https://www.youtube.com/watch?v=2_RgCfjunEU&t=450s
 Ivan Vankov: How exactly Hyperledger Fabric works. Basic workflow of transaction endorsement
 <p>
   
-<img src="https://farm5.staticflickr.com/4610/39798811151_fe95c18775_b.jpg" width="1024" height="637" alt="consensus">
-  
 ## Ordering Service – Ordering and synchronizing transactions
 ... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
 
