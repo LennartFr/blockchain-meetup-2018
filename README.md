@@ -30,7 +30,7 @@ Syed works with Developers and non-developers alike to show them the IBM Cloud p
 # Requirements:
 Bring a laptop
 
-# Chat: https://chat.hyperledger.org/
+## Chat: https://chat.hyperledger.org/
 
 ## Office Hours: https://calendly.com/alfsf <p> 
   
