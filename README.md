@@ -56,7 +56,7 @@ A blockchain database is managed autonomously using a peer-to-peer network and a
 </i><p>
 https://en.wikipedia.org/wiki/Blockchain
 <p>
-<i>A blockchain is a decentralized virtual ledger for recording transactions without central authority through a distributed cryptographic protocol. It is made up of three technologies 
+<i>A blockchain is a decentralized virtual ledger for recording transactions <b>without central authority </b> through a distributed cryptographic protocol. It is made up of three technologies 
 
 1. cryptographic algorithms, 
 1. a distributed protocol, 
@@ -64,9 +64,7 @@ https://en.wikipedia.org/wiki/Blockchain
 <p>
 which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
 <p>
-With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
 </i>
-Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant consensus using the PBFT (Practical Byzantine Fault Tolerance) protocol.
 <p>
 Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
 <p>
