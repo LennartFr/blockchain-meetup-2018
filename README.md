@@ -182,7 +182,7 @@ Chaincode is a piece of code that is written in one of the supported languages s
 <a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
 <p>
   
-### Hyperledger Fabric Network bootstrapping made simple for experimentation, development and testing  https://github.com/ibm-silvergate/netcomposer/blob/master/README.md  
+###  <a href="https://github.com/ibm-silvergate/netcomposer/blob/master/README.md">Hyperledger Fabric Network bootstrapping made simple for experimentation, development and testing</a>  
 
 ## Exercise 2 Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
