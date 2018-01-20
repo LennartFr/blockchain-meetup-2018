@@ -92,6 +92,8 @@ Every record in the distributed ledger has a timestamp and unique crytographic s
 
 https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
 
+Hyperledger, 1,000 transactions/second
+
 ## Example of the importance of a shared ledger. <p> 
   
 <a href="https://en.wikipedia.org/wiki/Air_France_Flight_447">Air France Flight 447 flight from Rio de Janeiro, Brazil to Paris, France, June 1 2009. Airbus</a>  
