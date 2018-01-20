@@ -196,8 +196,8 @@ Wondering where blockchain might apply in your own life? Interested in energy, s
 <img src="https://farm5.staticflickr.com/4665/27889047409_53ae2f45fd_z.jpg" width="640" height="371" alt="bigmarbles">
 
 https://github.com/IBM-Blockchain/marbles
-
-## Exercise 4 [IBM Blockchain Platform(https://www.ibm.com/cloud/blockchain-platform)<p>
+<p>
+## Exercise 4 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
 An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>  
 <p>  
 
