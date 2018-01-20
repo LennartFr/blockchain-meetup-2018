@@ -122,7 +122,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 # Hyperledger main components 
 
-<img src="https://farm5.staticflickr.com/4745/24932259167_baafb49950_b.jpg" width="1024" height="536" alt="BC Flow">
+<img src="https://farm5.staticflickr.com/4720/39092707514_7da60309b9_b.jpg" width="1024" height="544" alt="BC Flow">
 <p>
 https://www.youtube.com/watch?v=2_RgCfjunEU&t=450s
 <p>
