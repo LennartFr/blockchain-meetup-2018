@@ -80,6 +80,9 @@ Fra Luca Bartolomeo de Pacioli c. 1447–1517) was an Italian mathematician, Fra
 
 He is referred to as "The Father of Accounting and Bookkeeping" in Europe and he was the first person to publish a work on the double-entry system of book-keeping in that continent.
 <p>
+  
+### Blockchain Distributed Ledger  
+  
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p> 
 A distributed ledger is a type of database that is shared, replicated, and synchronized among the members of a network. The distributed ledger records the transactions, such as the exchange of assets or data, among the participants in the network.
