@@ -134,6 +134,22 @@ Ivan Vankov: How exactly Hyperledger Fabric works. Basic workflow of transaction
   
 ## Ordering Service – Ordering and synchronizing transactions
 ... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
+<p>
+The Hyperledger Fabric ordering service provides an atomic broadcast ordering service for consumption by the peers. This means that many clients can submit messages to the ordering service, and the same sequence of ordered batches will be delivered to all clients in response.
+
+### Protocol definition
+
+There are two services: 
+
+1. the Broadcast service for injecting messages into the system and 
+1  the Deliver service for receiving ordered batches from the service.
+
+
+#### Service types
+
+1. Solo ordering service (testing): The solo ordering service is intended to be an extremely easy to deploy, non-production ordering service. It consists of a single process which serves all clients, so consensus is not required as there is a single central authority.
+1. Kafka-based ordering service (production)
+1. PBFT ordering service (pending): The PBFT ordering service will use the Hyperledger Fabric PBFT implementation (currently under development) to order messages in a byzantine fault tolerant way.
 
 ## Consensus
 Consensus is the process by which a network of nodes provides a guaranteed ordering of transactions and validates the block of transactions. Consensus must provide the following core functionality:
