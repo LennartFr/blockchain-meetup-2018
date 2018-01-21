@@ -144,7 +144,7 @@ There are two services:
 <p>
   
 1. the Broadcast service for injecting messages into the system and 
-1.  the Deliver service for receiving ordered batches from the service.
+1. the Deliver service for receiving ordered batches from the service.
 
 
 #### Service types
@@ -173,8 +173,8 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 
 1. Endorsers: Nodes with “Endorser” functionality will simulate and sign or reject the transactions. A peer can be potentially 
    an endorser for the chaincodes deployed to it.
-1. Consenters: Consenters, also termed as “Ordering service“, will run the PBFT (Practical Byzantine Fault Tolerance) consensus   
-   algorithm on the transactions and order these transactions appropriately in a block.
+1. Consenters: Consenters, also termed as “Ordering service“, will run the PBFT (Practical Byzantine Fault Tolerance) 
+   consensus algorithm on the transactions and order these transactions appropriately in a block.
 1. Committers: Committer nodes receive the block of transactions from the ordering service (consenters) and write them to the ledger.
 
 ## Channels
