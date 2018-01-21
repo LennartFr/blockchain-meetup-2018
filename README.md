@@ -138,9 +138,10 @@ Ivan Vankov: How exactly Hyperledger Fabric works. Basic workflow of transaction
 The Hyperledger Fabric ordering service provides an atomic broadcast ordering service for consumption by the peers. This means that many clients can submit messages to the ordering service, and the same sequence of ordered batches will be delivered to all clients in response.
 
 ### Protocol definition
-
+<p>
 There are two services: 
-
+<p>
+  
 1. the Broadcast service for injecting messages into the system and 
 1  the Deliver service for receiving ordered batches from the service.
 
