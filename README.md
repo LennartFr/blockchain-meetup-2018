@@ -137,12 +137,10 @@ Ivan Vankov: How exactly Hyperledger Fabric works. Basic workflow of transaction
 
 ## Consensus
 Consensus is the process by which a network of nodes provides a guaranteed ordering of transactions and validates the block of transactions. Consensus must provide the following core functionality:
-• 
-Confirms the correctness of all transactions in a proposed block, according to endorsement and consensus policies.
-• 
-Agrees on order and correctness and hence on results of execution (implies agreement on global state).
-• 
-Interfaces and depends on smart-contract layer to verify correctness of an ordered set of transactions in a block
+
+1. Confirms the correctness of all transactions in a proposed block, according to endorsement and consensus policies.
+1. Agrees on order and correctness and hence on results of execution (implies agreement on global state).
+1. Interfaces and depends on smart-contract layer to verify correctness of an ordered set of transactions in a block
 <p>
 
 Consensus Algorithm: <a href="https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf">Kafka</a>
