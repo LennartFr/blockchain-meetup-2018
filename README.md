@@ -2,7 +2,9 @@
 <a href="http://ibm.biz/bcmeetup2018"><img src="https://farm5.staticflickr.com/4739/39515037702_7c97e80df1_b.jpg" width="805" height="180" alt="bcmeetup2018"></a> 
 <p>
 <img src="https://farm5.staticflickr.com/4706/39817426281_c185a7e3de_b.jpg" width="1024" height="611" alt="Index">
+
 <p>
+
 # Speakers
 
 ## Lennart Frantzell 
