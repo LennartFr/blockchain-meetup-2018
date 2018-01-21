@@ -99,7 +99,7 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 
 Hyperledger, 1,000 transactions/second
 
-## From the press:. <p> 
+## From the press: <p> 
   
 <a href="http://fortune.com/2018/01/16/ibm-blockchain-maersk-company/">IBM and Maersk Are Creating a New Blockchain Company</a>  
 IBM and Danish shipping giant Maersk are teaming up to form a new company whose aim is to commercialize blockchain technology—the nifty, shared accounting ledgers first made famous by the cryptocurrency Bitcoin.
