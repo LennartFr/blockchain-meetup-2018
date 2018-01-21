@@ -143,7 +143,7 @@ There are two services:
 <p>
   
 1. the Broadcast service for injecting messages into the system and 
-1  the Deliver service for receiving ordered batches from the service.
+1.  the Deliver service for receiving ordered batches from the service.
 
 
 #### Service types
