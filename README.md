@@ -216,6 +216,7 @@ Chaincode is a piece of code that is written in one of the supported languages s
 <p>
 Wondering where blockchain might apply in your own life? Interested in energy, sustainability, or climate change? Try your hand at creating a basic blockchain app to interact with a decentralized energy network! The idea behind the app is a neighborhood where residents produce and sell excess solar-panel energy to residents who need it. This is an excellent example of how blockchain can begin to transform our world.   
 <p>
+  
 ## Excercise 3 Create the full marbles app
 <img src="https://farm5.staticflickr.com/4665/27889047409_53ae2f45fd_z.jpg" width="640" height="371" alt="bigmarbles">
 
