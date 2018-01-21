@@ -171,8 +171,8 @@ The peer exists to perform two main functions: execute/validate transactions & m
 <br>
 https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
 
-1. Endorsers: Nodes with “Endorser” functionality will simulate and sign or reject the transactions. A peer can be potentially an    
-   endorser for the chaincodes deployed to it.
+1. Endorsers: Nodes with “Endorser” functionality will simulate and sign or reject the transactions. A peer can be potentially 
+   an endorser for the chaincodes deployed to it.
 1. Consenters: Consenters, also termed as “Ordering service“, will run the PBFT (Practical Byzantine Fault Tolerance) consensus   
    algorithm on the transactions and order these transactions appropriately in a block.
 1. Committers: Committer nodes receive the block of transactions from the ordering service (consenters) and write them to the ledger.
