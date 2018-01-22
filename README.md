@@ -222,7 +222,7 @@ An enterprise-ready blockchain platform designed to accelerate the development, 
 
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
-## Nodered and Hyperledger Composer
+## Node-RED and Hyperledger Composer
 
 [Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
 
