@@ -136,50 +136,11 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 # Hyperledger main components 
 
 <img src="https://farm5.staticflickr.com/4660/25963918068_b7a6234a86_b.jpg" width="1024" height="539" alt="EndorsementConsensus">
-  
-## Ordering Service – Ordering and synchronizing transactions
-... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
-<p>
-The Hyperledger Fabric ordering service provides an atomic broadcast ordering service for consumption by the peers. This means that many clients can submit messages to the ordering service, and the same sequence of ordered batches will be delivered to all clients in response.
 
-### Protocol definition
-<p>
-There are two services: 
-<p>
-  
-1. the Broadcast service for injecting messages into the system and 
-1. the Deliver service for receiving ordered batches from the service.
+<img src="https://farm5.staticflickr.com/4702/25964232778_62e1268a89_b.jpg" width="1024" height="421" alt="ordererflow">
 
+It is also important to note the Hyperledger Fabric has HSM (Hardware Security Module) support which is vital for safeguarding and managing digital keys for strong authentication. Hyperledger Fabric provides modified and unmodified PKCS11 for key generation, which supports cases like identity management that need more protection.
 
-#### Service types
-
-1. Solo ordering service (testing): The solo ordering service is intended to be an extremely easy to deploy, non-production ordering service. It consists of a single process which serves all clients, so consensus is not required as there is a single central authority.
-1. Kafka-based ordering service (production)
-1. PBFT ordering service (pending): The PBFT ordering service will use the Hyperledger Fabric PBFT implementation (currently under development) to order messages in a byzantine fault tolerant way.
-
-## Consensus
-Consensus is the process by which a network of nodes provides a guaranteed ordering of transactions and validates the block of transactions. Consensus must provide the following core functionality:
-
-1. Confirms the correctness of all transactions in a proposed block, according to endorsement and consensus policies.
-1. Agrees on order and correctness and hence on results of execution (implies agreement on global state).
-1. Interfaces and depends on smart-contract layer to verify correctness of an ordered set of transactions in a block
-<p>
-
-Consensus Algorithm: <a href="https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf">Kafka</a>
-
-##  Certificate Authority – Issuing certificates to participants
-To put it simply, the Certificate Authority (CA) provides membership. All entities in the network (peers, orderers, clients, etc.) must have an identity to communicate, authenticate and ultimately transact. These “identities” exist in the form of x509 certificates (i.e. enrollment certificates), which are required for any direct participation in the blockchain network.... 
-
-##  Peer – Validating/endorsing transactions
-The peer exists to perform two main functions: execute/validate transactions & maintain ledgers. <b>The peer runs smart contracts, and is the holder of transaction history and the current state of assets on the network’s channels. At the end of the day it’s all about accessing the peer (directly or indirectly) and performing reads and writes against the ledger.</b> When a member provides an end user access to the network, they’re really providing access to the functionality of the peer.
-<br>
-https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
-
-1. Endorsers: Nodes with “Endorser” functionality will simulate and sign or reject the transactions. A peer can be potentially 
-   an endorser for the chaincodes deployed to it.
-1. Consenters: Consenters, also termed as “Ordering service“, will run the PBFT (Practical Byzantine Fault Tolerance) 
-   consensus algorithm on the transactions and order these transactions appropriately in a block.
-1. Committers: Committer nodes receive the block of transactions from the ordering service (consenters) and write them to the ledger.
 
 ## Channels
 A Hyperledger Fabric channel is a private “subnet” of communication between two or more specific network members, for the purpose of conducting private and confidential transactions. 
