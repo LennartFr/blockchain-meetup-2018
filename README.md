@@ -11,10 +11,6 @@ Lennart is a Developer Advocate with IBM on the San Francisco City Team focusing
 
 Raheel is a software Engineer focused on developing journeys for Emerging Technologies team, part of IBM’s Digital Business Group. He has worked on journeys showcasing Blockchain technologies and Fintech services. In addition, his interests include IoT and Data Science. Raheel’s previous experience includes over five years in the energy industry. He completed his bachelors and masters degrees from Texas A&M University. Raheel is an avid sports fan. 
 
-## Syed Zaidi 
-
-Syed works with Developers and non-developers alike to show them the IBM Cloud platform and offerings in SaaS (Software-as-a-Service), Paas (Platform) and Iaas (Infrastructure).  One of the key focus areas for Syed is IBM Watson IoT (Internet of Things) Platform; where he uses the service offerings of IBM Bluemix Cloud Catalog to showcase the ease of use. He helped IBM Business Partners with Performance and Scalability testing of their Application on IBM Enterprise Servers, IBM Enterprise Storage (HDD/SSD) utilizing IBM Middleware in IIC Data Center.
-
 
 # Agenda:
 
