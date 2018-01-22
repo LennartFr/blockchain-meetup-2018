@@ -106,6 +106,8 @@ Hyperledger, 1,000 transactions/second
 
 ## From the press: <p> 
   
+ <img src="https://farm5.staticflickr.com/4085/4948614041_8424d93588_b.jpg" width="1024" height="659" alt="MAERSK SAIGON - IMO: 9303534">
+  
 <a href="http://fortune.com/2018/01/16/ibm-blockchain-maersk-company/">IBM and Maersk Are Creating a New Blockchain Company</a>  
 IBM and Danish shipping giant Maersk are teaming up to form a new company whose aim is to commercialize blockchain technology—the nifty, shared accounting ledgers first made famous by the cryptocurrency Bitcoin.
 <p>
