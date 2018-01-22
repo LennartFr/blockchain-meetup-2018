@@ -176,7 +176,7 @@ Consensus Algorithm: <a href="https://www.hyperledger.org/wp-content/uploads/201
 To put it simply, the Certificate Authority (CA) provides membership. All entities in the network (peers, orderers, clients, etc.) must have an identity to communicate, authenticate and ultimately transact. These “identities” exist in the form of x509 certificates (i.e. enrollment certificates), which are required for any direct participation in the blockchain network.... 
 
 ##  Peer – Validating/endorsing transactions
-The peer exists to perform two main functions: execute/validate transactions & maintain ledgers. The peer runs smart contracts, and is the holder of transaction history and the current state of assets on the network’s channels. At the end of the day it’s all about accessing the peer (directly or indirectly) and performing reads and writes against the ledger. When a member provides an end user access to the network, they’re really providing access to the functionality of the peer.
+The peer exists to perform two main functions: execute/validate transactions & maintain ledgers. <b>The peer runs smart contracts, and is the holder of transaction history and the current state of assets on the network’s channels. At the end of the day it’s all about accessing the peer (directly or indirectly) and performing reads and writes against the ledger.</b> When a member provides an end user access to the network, they’re really providing access to the functionality of the peer.
 <br>
 https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
 
