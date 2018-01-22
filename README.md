@@ -30,11 +30,15 @@ Syed works with Developers and non-developers alike to show them the IBM Cloud p
 # Requirements:
 Bring a laptop
 
+# Important URLS:
+
 ## Chat: https://chat.hyperledger.org/
 
 ## Office Hours: https://calendly.com/alfsf <p> 
   
                 alf@us.ibm.com
+<p>
+<a href="https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html">Zero to Blockchain</a>
 
 <p>
 <img src="https://farm5.staticflickr.com/4706/39817426281_c185a7e3de_b.jpg" width="1024" height="611" alt="Index">
