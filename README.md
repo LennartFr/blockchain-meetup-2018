@@ -9,7 +9,7 @@ Lennart is a Developer Advocate with IBM on the San Francisco City Team focusing
 
 ## Raheel Zubairy
 
-Raheel is a software Engineer focused on developing journeys for Emerging Technologies team, part of IBM’s Digital Business Group. He has worked on journeys showcasing Blockchain technologies and Fintech services. In addition, his interests include IoT and Data Science. Raheel’s previous experience includes over five years in the energy industry. He completed his bachelors and masters degrees from Texas A&M University. Raheel is an avid sports fan. 
+Raheel is a Software Engineer focused on developing journeys for Emerging Technologies team, part of IBM’s Digital Business Group. He has worked on journeys showcasing Blockchain technologies and Fintech services. In addition, his interests include IoT and Data Science. Raheel’s previous experience includes over five years in the energy industry. He completed his bachelors and masters degrees from Texas A&M University. Raheel is an avid sports fan. 
 
 
 # Agenda:
