@@ -135,6 +135,8 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 <img src="https://farm5.staticflickr.com/4702/25964232778_62e1268a89_b.jpg" width="1024" height="421" alt="ordererflow">
 
+<img src="https://farm5.staticflickr.com/4754/39845407581_a1a64b5f37_b.jpg" width="830" height="436" alt="consensus">
+
 It is also important to note the Hyperledger Fabric has HSM (Hardware Security Module) support which is vital for safeguarding and managing digital keys for strong authentication. Hyperledger Fabric provides modified and unmodified PKCS11 for key generation, which supports cases like identity management that need more protection.
 
 
@@ -147,8 +149,6 @@ A Hyperledger Fabric channel is a private “subnet” of communication between 
 <img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
 <p>  
 Chaincode is a piece of code that is written in one of the supported languages such as Go or Java. It is installed and instantiated through an SDK or CLI onto a network of Hyperledger Fabric peer nodes, enabling interaction with that network's shared ledger.  
-
-<img src="https://farm5.staticflickr.com/4754/39845407581_a1a64b5f37_b.jpg" width="830" height="436" alt="consensus">
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband"> 
   
