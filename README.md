@@ -11,7 +11,6 @@ Lennart is a Developer Advocate with IBM on the San Francisco City Team focusing
 
 Raheel is a Software Engineer focused on developing journeys for Emerging Technologies team, part of IBM’s Digital Business Group. He has worked on journeys showcasing Blockchain technologies and Fintech services. In addition, his interests include IoT and Data Science. Raheel’s previous experience includes over five years in the energy industry. He completed his bachelors and masters degrees from Texas A&M University. Raheel is an avid sports fan. 
 
-
 # Agenda:
 
 6:00-6:30pm: Light dinner and registration
@@ -37,9 +36,12 @@ Bring a laptop
   
 ## Superb IBM Blockchain online course: <a href="https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html">Zero to Blockchain</a>
 <p>
-<a href="https://developer.ibm.com/code/technologies/blockchain/">IBM Code Blockchain Patterns</a>
+  
+## <a href="https://developer.ibm.com/code/technologies/blockchain/">IBM Code Blockchain Patterns</a>
 <p>
+  
 <img src="https://farm5.staticflickr.com/4706/39817426281_c185a7e3de_b.jpg" width="1024" height="611" alt="Index">
+
 <p>
 
 # Download code for Exercises 
